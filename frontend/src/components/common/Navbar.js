@@ -50,7 +50,7 @@ const Navbar = () => {
             </div>
           </div>
           
-          <div className="-mr-2 flex md:hidden">
+          <div className="-mr-2 flex md:hidden">  
             <button
               onClick={toggleMenu}
               className="bg-gray-200 dark:bg-gray-700 inline-flex items-center justify-center p-2 rounded-md text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
